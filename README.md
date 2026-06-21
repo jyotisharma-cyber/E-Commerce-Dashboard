@@ -1,6 +1,6 @@
 # E-Commerce-Sales-Dashboard (Power BI)
 
-## E-Commerce-Sales - [https://github.com/jyotisharma-cyber/HR-ANALYTICS](https://github.com/jyotisharma-cyber/E-Commerce-Dashboard)
+## E-Commerce-Sales - [https://github.com/jyotisharma-cyber/E-Commerce-Dashboard]
 
 ---
 ## E-Commerce Dashboard Screenshot
