@@ -3,9 +3,9 @@
 ## E-Commerce-Sales - [https://github.com/jyotisharma-cyber/HR-ANALYTICS](https://github.com/jyotisharma-cyber/E-Commerce-Dashboard)
 
 ---
-## HR Analytics Dashboard Screenshot
+## E-Commerce Dashboard Screenshot
 
-![ECommerce Sales Dashboard]((https://github.com/jyotisharma-cyber/E-Commerce-Dashboard/blob/main/E-Commerce.PNG))
+![E-Commerce Dashboard](E-Commerce.PNG)
 
 
 ---
