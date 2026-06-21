@@ -102,17 +102,17 @@ The dataset includes:
 
 ##  Business Benefits
 
-✔ Identify high-performing products
+1. Identify high-performing products
 
-✔ Track sales and profitability trends
+2. Track sales and profitability trends
 
-✔ Understand customer purchasing patterns
+3. Understand customer purchasing patterns
 
-✔ Evaluate regional market performance
+4. Evaluate regional market performance
 
-✔ Optimize shipping strategies
+5. Optimize shipping strategies
 
-✔ Support strategic business decisions
+6. Support strategic business decisions
 
 ---
 
@@ -136,4 +136,4 @@ Data Analyst | Power BI Developer
 
 ---
 
-⭐ If you found this project useful, please give it a star on GitHub!
+### If you found this project useful, please give it a star on GitHub!
